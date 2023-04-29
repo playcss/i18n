@@ -1,0 +1,9 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "clsx": "^1.2.1"
+  }
+}
