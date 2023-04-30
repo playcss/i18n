@@ -1,7 +1,7 @@
 {
   "name": "i18n",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.tsx",
   "license": "MIT",
   "dependencies": {
     "clsx": "^1.2.1"
