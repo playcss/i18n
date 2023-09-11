@@ -4,6 +4,7 @@
   "main": "index.tsx",
   "license": "MIT",
   "dependencies": {
-    "clsx": "^1.2.1"
+    "clsx": "^1.2.1",
+    "@pcss/ui": "*"
   }
 }
